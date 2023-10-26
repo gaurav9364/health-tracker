@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: midnightblue;
+    color: rgb(219, 247, 8);
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: whitesmoke;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+input, button {
+    margin: 10px 0;
+}
+
+#step-tracker, #calorie-tracker {
+    border: 3px solid #060606;
+    padding: 10px;
+}
+
+ul {
+    list-style-type: square;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+}
+
+footer{
+    color: whitesmoke;
+    background-color: #3498db;
+    
+}
+
+img{
+    float: inline-end;
+    height: 90px;
+    background-color: chartreuse;
+}
+
+#Contact{
+    font-size: 13px;
+    text-align: start;
+    color: #060606;
+}
+
+#hearts{
+    color: red;
+    text-align: end;
+}
